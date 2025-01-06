@@ -1,0 +1,56 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+*.env
+*.venv
+*.pytest_cache/
+*.coverage
+*.tox
+*.nox
+*.hypothesis
+.pytest_cache/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+.env/
+venv/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+*.db-journal
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Python distribution files
+dist/
+build/
+*.egg-info/
+
+# Coverage reports
+.coverage
+coverage.xml
+*.coveragerc
+
+# Unit test directories
+nosetests.xml
+test*.xml

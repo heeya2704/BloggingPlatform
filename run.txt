@@ -1,0 +1,4 @@
+to run frontend - npm run dev
+to run backend - python manage.py runserver
+createsuperuser - username - Admin
+password - Admin

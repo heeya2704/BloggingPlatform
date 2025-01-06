@@ -1,0 +1,12 @@
+/* styles.css */
+.nav-button {
+    padding: 1rem 1.25rem;
+    text-transform: capitalize;
+    color: #000000; /* Tailwind blue-600 */
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.nav-button:hover {
+    color: #41474c; /* Tailwind blue-800 */
+    background-color: #f3f4f6; /* Tailwind gray-100 */
+}
